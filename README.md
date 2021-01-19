@@ -22,6 +22,7 @@ to ensure easy throttle connection. I'm using hall current sensors - similar des
 It was designed up to 600A phase current. 
 
 Three board design: 
+
 1: Aluminum substrate power stage at the bottom to provide the best thermal interface with the heatsink/ Busbars are soldered onto power stage pcb to carry high current.
 
 2: DC link & Driver.
